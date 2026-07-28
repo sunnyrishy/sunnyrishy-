@@ -164,7 +164,7 @@ A from-scratch information retrieval engine in C++ implementing an inverted inde
 ## 💼 Experience
 
 ### Graduate Research Assistant
-**Adelphi University** · *Nov 2024 – May 2026*
+**Adelphi University** · *Nov 2025 – May 2026*
 
 Conducted graduate research under Dr. Sixia Chen on approximation algorithms for large-scale native advertising in content feeds, in collaboration with Dr. Sarpe on the StrmAds project — engaging directly with the WWW 2025 paper *"Efficient and Practical Approximation Algorithms for Advertising in Content Feeds"*.
 
