@@ -94,18 +94,7 @@ Start:        Immediately available
 
 ---
 
-## 🤖 AI / ML Expertise
 
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Quantum Machine Learning** | Advanced | Built Hybrid Quantum Neural Networks (H-QNN) for medical classification tasks using Qiskit `AerSimulator` (GPU) and PennyLane; evaluated Lightning-GPU adjoint differentiation for training efficiency; contributor to `pennylane-maestro` |
-| **LLM Integration & Agentic Systems** | Advanced | Built **NightShift** — an autonomous software factory using the Claude API that turns a GitHub issue into a deployed, tested PR with zero human involvement; authored custom Claude skills for resume/ATS optimization |
-| **Approximation Algorithms & Theoretical ML** | Advanced | Designed 2-approximation algorithms for the Stream-Ads native advertising problem, validated on a 1.8M-edge YouTube dataset as part of graduate research |
-| **Applied ML / Data Classification** | Intermediate | Model iteration on medical datasets (lung classification, diabetes prediction) with a focus on hybrid classical-quantum pipelines |
-
-</div>
 
 <br/>
 
